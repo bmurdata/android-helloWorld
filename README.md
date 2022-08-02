@@ -1,4 +1,3 @@
-# android-helloWorld
 # Android Prework - Meet Murphy
 
 Submitted by: Brian Murphy
