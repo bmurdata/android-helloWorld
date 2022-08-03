@@ -4,36 +4,35 @@ Submitted by: Brian Murphy
 
 Meet Murphy is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] Image and introductory message displayed on screen
-* [ ] Button displayed on screen
-* [ ] Toast with message appears when button is pressed 
+* [x] Image and introductory message displayed on screen
+* [x] Button displayed on screen
+* [x] Toast with message appears when button is pressed 
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Modified title text color to stand out
+* [x] Modified launcher icon background color
+* [x] Seperated name and description text
+* [x] Made name bold and larger than description
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/bmurdata/android-helloWorld/blob/main/preWork-function.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with [LiceCap](http://www.cockos.com/licecap/).  
-<!-- Other options include:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with [ScreenToGif](https://www.screentogif.com/).  
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Ran into issues with the image and text not centering. Used a mix of the design editor and code changes to get desired result. I also noticed the autofill seems to add additional code not seen by the user. In Toast.makeText, typing context: this resulted in errors, but the autofill made it work with no issue.
 
 ## License
 
