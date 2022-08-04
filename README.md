@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://github.com/bmurdata/android-helloWorld/blob/main/preWork-function.gif' title='Video Walkthrough' width='200' height='400' alt='Video Walkthrough' />
+<img src='https://github.com/bmurdata/android-helloWorld/blob/main/preWork-function.gif' title='Video Walkthrough' width='35%' height='35%' alt='Video Walkthrough' />
 
 GIF created with [ScreenToGif](https://www.screentogif.com/).  
 
